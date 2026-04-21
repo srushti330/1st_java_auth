@@ -1,0 +1,14 @@
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\entity\User.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\security\SecurityConfig.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\exception\GlobalExceptionHandler.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\service\AuthService.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\security\CustomUserDetailsService.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\dto\AuthResponse.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\security\JwtAuthenticationFilter.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\repository\UserRepository.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\controller\AuthController.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\security\JwtUtil.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\dto\LoginRequest.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\dto\RegisterRequest.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\AuthApplication.java
+C:\Users\Srushti S H\Desktop\Auth\backend\src\main\java\com\auth\security\CustomUserDetails.java
